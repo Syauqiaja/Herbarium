@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096f34a1286ea2f40820854969f4f09c, type: 3}
+  m_Name: Pirrosia-stigmosa
+  m_EditorClassIdentifier: 
+  Title: Pirrosia-stigmosa
+  Kingdom: Plantae
+  Subkingdom: 
+  Superdivisi: 
+  Divisi: Tracheophyta
+  Kelas: Polypodiopsida
+  Subkelas: 
+  Ordo: Polypodiales
+  Subordo: 
+  Famili: Polypodiaceae
+  Genus: 'Pyrrosia Mirb.  '
+  Spesies: Pyrrosia stigmosa (Sw.) Ching
